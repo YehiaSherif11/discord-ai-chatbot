@@ -1,5 +1,5 @@
 {
     "token": "bot_token",
-    "allowed_channel_ids": ["CHANNEL_ID_1", "CHANNEL_ID_2", "CHANNEL_ID_3"],
-    "image2textChannels":["CHANNEL_ID_1", "CHANNEL_ID_2", "CHANNEL_ID_3"]
+    "allowed_channel_ids": ["1204220228222066800", "CHANNEL_ID_2", "CHANNEL_ID_3"],
+    "image2textChannels":["1204211470620172348", "CHANNEL_ID_2", "CHANNEL_ID_3"]
 }
